@@ -1,0 +1,9 @@
+s* = select * from
+c* = create table compress as
+d* = drop table purge;
+w = where
+hav = having count(1) > 1
+gr = group by
+ord = order by
+di = distinct
+co = count(1)
